@@ -5,7 +5,7 @@
 
 如：java、git、elasticsearch、mycat、设计模式、gradle、vue
 
-在线阅读：https://zq99299.github.io/note-book/
+在线阅读：https://github.com/gabreilcheng/note-book
 
 ## 运行方式
 
